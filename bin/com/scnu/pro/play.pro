@@ -1,0 +1,1 @@
+Player=player,playFire,250,600,80,80
